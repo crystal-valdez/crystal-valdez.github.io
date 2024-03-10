@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        Hello! I am a master's student interested in using my skills to develop data and AI solutions within the healthcare industry.
+        Hello! I am a master's student passionate about learning and using my skills to develop data and AI solutions. 
       </p>
 
       <p>
