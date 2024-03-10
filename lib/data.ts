@@ -43,9 +43,6 @@ export const skillsData = [
   "Node.js",
   "Git",
   "Tailwind",
-  "Prisma",
-  "MongoDB",
   "Redux",
-  "Django",
   "Framer Motion",
 ] as const;

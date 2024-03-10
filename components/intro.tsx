@@ -31,13 +31,13 @@ export default function Intro() {
             }}
           >
             <Image
-              src=""
+              src="/headshot.jpeg"
               alt="Crystal portrait"
-              width="192"
-              height="192"
+              width="400"
+              height="400"
               quality="95"
               priority={true}
-              className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+              className="h-40 w-40 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
             />
           </motion.div>
 
@@ -52,7 +52,7 @@ export default function Intro() {
               duration: 0.7,
             }}
           >
-            👋
+            💻
           </motion.span>
         </div>
       </div>
@@ -88,7 +88,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/CV.pdf"
+          href="/CrystalValdez_Resume.pdf"
           download
         >
           Download CV{" "}
